@@ -1,0 +1,91 @@
+.images1{
+    display: flex;
+    justify-content: center;
+}
+.refunds {
+  justify-content: center;
+  background-color: rgb(251, 224, 246);
+}
+
+#image {
+  justify-content: center;
+  align-items: center;
+  width: fit-content;
+}
+
+#heads span {
+  color: violet;
+}
+
+#heads {
+  text-align: center;
+}
+
+.works {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 10px;
+  padding: 10px;
+  justify-content: center;
+}
+
+.works .step2 span {
+  background-color: orange;
+}
+
+.step1,
+.step2,
+.step3 {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  padding: 15px;
+  margin: 5px;
+  border-radius: 15px;
+}
+
+.step1 {
+  background-color: rgb(252, 233, 236);
+}
+
+.step2 {
+  background-color: rgb(248, 227, 230);
+}
+
+.step3 {
+  background-color: rgb(247, 218, 223);
+}
+
+.logos {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+  margin: 10px;
+  justify-content: center;
+}
+
+.logos img {
+  margin: 5px;
+  padding: 5px;
+  size: 10%;
+  width: 190px;
+  border: 2px solid orange;
+}
+
+#he1 {
+  text-align: center;
+}
+
+#he1 span {
+  background: linear-gradient(to right, #ff69b4, #ff6eb4, #ff73b3, #ff78b3, #ff7cb2, #ff81b2, #ff86b1, #ff8bb1, #ff90b0, #ff95b0, #ff99af);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Media Queries for Responsiveness */
+
+@media screen and (max-width: 768px) {
+  .logos img {
+    width: 120px; /* Adjust size for smaller screens */
+  }
+}

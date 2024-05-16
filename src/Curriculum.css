@@ -1,0 +1,62 @@
+#h1{
+    text-align: center;
+    background: linear-gradient(to right, #ff69b4, #ff6eb4, #ff73b3, #ff78b3, #ff7cb2, #ff81b2, #ff86b1, #ff8bb1, #ff90b0, #ff95b0, #ff99af);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-color: #ff6eb4;
+}
+#h2{
+    background: linear-gradient(to right, #ff69b4, #ff6eb4, #ff73b3, #ff78b3, #ff7cb2, #ff81b2, #ff86b1, #ff8bb1, #ff90b0, #ff95b0, #ff99af);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+}
+#h2 span{
+    color: rgb(12, 12, 12);
+}
+.main{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-color: #efeaed;
+}
+.curr{
+    margin: 20px;
+    padding: 10px;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-color: rgb(253, 250, 253);
+    border-radius: 5px;
+    border: 1px solid rgb(221, 240, 212);
+}
+.curr1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.curr2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.curr3{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.curr4{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.curr p{
+    background-color: rgb(224, 104, 212);
+    height: fit-content;
+    padding: 10px;
+    border-radius: 15px;
+    margin-top: 5px;
+}
