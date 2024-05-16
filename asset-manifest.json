@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cart/upskillmafia/static/css/main.f523366b.css",
+    "main.js": "/cart/upskillmafia/static/js/main.8383914e.js",
+    "index.html": "/cart/upskillmafia/index.html",
+    "main.f523366b.css.map": "/cart/upskillmafia/static/css/main.f523366b.css.map",
+    "main.8383914e.js.map": "/cart/upskillmafia/static/js/main.8383914e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f523366b.css",
+    "static/js/main.8383914e.js"
+  ]
+}
