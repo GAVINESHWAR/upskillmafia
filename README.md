@@ -70,10 +70,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-![Screenshot 2024-05-16 222343](https://github.com/GAVINESHWAR/upskillmafia/assets/124431955/18bb5299-f715-4347-8ee9-16096c90b2f6)
-![Screenshot 2024-05-16 221842](https://github.com/GAVINESHWAR/upskillmafia/assets/124431955/e8c525fc-faa7-4915-ad43-4f2c124214d5)
-![Screenshot 2024-05-16 221842](https://github.com/GAVINESHWAR/upskillmafia/assets/124431955/1c8c0536-bb31-4c70-8ae6-ab01008a80d2)
-![Screenshot 2024-05-16 222343](https://github.com/GAVINESHWAR/upskillmafia/assets/124431955/39ad2707-28eb-41df-aa06-ceab4d24190c)
+![Screenshot 2024-05-16 221813](https://github.com/GAVINESHWAR/upskillmafia/assets/124431955/e7dfdf73-f3fc-4766-84d0-ea0aad31c78b)
+![Screenshot 2024-05-16 221842](https://github.com/GAVINESHWAR/upskillmafia/assets/124431955/4ceb1b2f-02de-429e-b13f-a83f7bb296fe)
+![Screenshot 2024-05-16 222638](https://github.com/GAVINESHWAR/upskillmafia/assets/124431955/66cb5f2d-c797-42a2-a82f-e7674721c013)
+![Screenshot 2024-05-16 222317](https://github.com/GAVINESHWAR/upskillmafia/assets/124431955/442d1e0a-8652-48d8-b5a3-53fa4403e100)
+![Screenshot 2024-05-16 222343](https://github.com/GAVINESHWAR/upskillmafia/assets/124431955/6ade93d1-c302-4312-8599-3e91225b81b7)
+
+
 
 
 
